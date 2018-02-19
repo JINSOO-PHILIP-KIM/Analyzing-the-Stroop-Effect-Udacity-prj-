@@ -1,3 +1,3 @@
 Analyzing-the-Stroop-Effect <br>
 This is a test about Perceptual Phenomenon.<br>
-Python, t-test, pandas & numpy & matplotlib libraries are used.
+t-test(one of the inferential statistics tool) and Python's pandas & numpy & matplotlib libraries are used.
